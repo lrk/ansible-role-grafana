@@ -1,6 +1,6 @@
 Ansible Role: Grafana ([lrk.grafana](https://galaxy.ansible.com/lrk/grafana/))
 =========
-[![Build Status](https://travis-ci.org/lrk/ansible-grafana.svg?branch=master)](https://travis-ci.org/lrk/ansible-grafana)
+[![Build Status](https://travis-ci.org/lrk/ansible-role-grafana.svg?branch=master)](https://travis-ci.org/lrk/ansible-role-grafana)
 
 An Ansible Role that install [Grafana](https://grafana.com).
 

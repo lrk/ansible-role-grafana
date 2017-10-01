@@ -23,6 +23,8 @@ galaxy_info:
 
   galaxy_tags:
     - 'grafana'
+    - 'analytics'
+    - 'analytic'
     - 'centos'
     - 'metrics'
     - 'monitoring'
