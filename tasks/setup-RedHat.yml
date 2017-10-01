@@ -19,8 +19,4 @@
   service:
     name: "{{ grafana_service_name }}"
     enabled: yes
-
-- name: "Ensure the Grafana service is started"
-  service:
-    name: "{{ grafana_service_name }}"
     state: started
