@@ -4,6 +4,7 @@ Ansible Role: Grafana ([lrk.grafana](https://galaxy.ansible.com/lrk/grafana/))
 [![Galaxy](https://img.shields.io/badge/galaxy-lrk.grafana-blue.svg)](https://galaxy.ansible.com/lrk/grafana)
 ![Ansible](https://img.shields.io/ansible/role/d/21604.svg)
 ![Ansible](https://img.shields.io/badge/dynamic/json.svg?label=min_ansible_version&url=https%3A%2F%2Fgalaxy.ansible.com%2Fapi%2Fv1%2Froles%2F21604%2F&query=$.min_ansible_version)
+![Ansible](https://img.shields.io/ansible/quality/21604)
 
 An Ansible Role that install [Grafana](https://grafana.com).
 
